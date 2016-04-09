@@ -3,7 +3,7 @@ package org.adrianwalker.continuedfractions.graph;
 import java.math.BigDecimal;
 import java.util.List;
 import static org.adrianwalker.continuedfractions.Fraction.decimal;
-import org.adrianwalker.continuedfractions.controller.Controller;
+import org.adrianwalker.continuedfractions.graph.controller.Controller;
 import org.adrianwalker.continuedfractions.graph.entity.Node;
 import org.adrianwalker.continuedfractions.graph.entity.NodePath;
 import static org.adrianwalker.continuedfractions.graph.Path.sibling;

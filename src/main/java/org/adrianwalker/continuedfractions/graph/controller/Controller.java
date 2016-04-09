@@ -1,4 +1,4 @@
-package org.adrianwalker.continuedfractions.controller;
+package org.adrianwalker.continuedfractions.graph.controller;
 
 import java.util.List;
 import javax.persistence.EntityManager;

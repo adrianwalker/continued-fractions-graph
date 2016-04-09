@@ -4,7 +4,7 @@ import java.util.Arrays;
 import static java.util.stream.Collectors.toList;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import org.adrianwalker.continuedfractions.controller.Controller;
+import org.adrianwalker.continuedfractions.graph.controller.Controller;
 import org.adrianwalker.continuedfractions.graph.entity.Node;
 import org.junit.After;
 import org.junit.AfterClass;
